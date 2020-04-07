@@ -4,3 +4,5 @@ datasets-v5/
 notebooks/.ipynb_checkpoints/
 __MACOSX/._datasets-v5
 datasets-v5.zip
+models/GaussianProcessRegressor_model.pickle
+models/RandomForestRegressor_model.pickle
