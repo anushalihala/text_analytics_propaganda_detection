@@ -8,3 +8,6 @@ processed_dataset/article_statistics.csv
 models/GaussianProcessRegressor_model.pickle
 models/RandomForestRegressor_model.pickle
 models/Graph
+models/checkpoints/1586351346.hdf5
+*.hdf5
+*.pickle
